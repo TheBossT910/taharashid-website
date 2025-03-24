@@ -45,17 +45,17 @@ sections:
     design:
       columns: '1'
     # TODO: Use "Featued Publications" for posts (i.e. like LinkedIn/Instagram Posts)
-  - block: collection
-    id: papers
-    content:
-      title: Featured Posts
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Posts
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   # - block: collection
   #   content:
   #     title: Recent Publications
