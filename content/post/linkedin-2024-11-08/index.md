@@ -41,7 +41,7 @@ I originally planned for:
 
 However, I learned that **prioritizing key tasks** over adding every feature is crucial. Cutting ✂️ some ideas let me focus on **delivering a polished homepage** instead of an incomplete website.  
 
-![Home page screenshot](images/home.jpeg)
+![Home page screenshot](images/home.png)
 
 ---
 
