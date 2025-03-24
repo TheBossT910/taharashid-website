@@ -1,13 +1,15 @@
 ---
-title: Title
-summary: Summary
+title: Building the PerfectFit Website: Lessons in Teamwork, Prioritization, and Tech
+summary: Finishing the PerfectFit homepage taught me valuable lessons in teamwork, prioritization, and web development tools.
 date: 2024-11-08
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Web development
+  - Teamwork
+  - Github
+  - Bootstrap
+  - Next.js
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
