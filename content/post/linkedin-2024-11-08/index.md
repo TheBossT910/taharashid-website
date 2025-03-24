@@ -1,6 +1,6 @@
 ---
-title: Building the PerfectFit Website: Lessons in Teamwork, Prioritization, and Tech
-summary: Finishing the PerfectFit homepage taught me valuable lessons in teamwork, prioritization, and web development tools.
+title: "✅ Building the PerfectFit Website: Lessons in Teamwork, Prioritization, and Tech"
+summary: "Finishing the PerfectFit homepage taught me valuable lessons in teamwork, prioritization, and web development tools."
 date: 2024-11-08
 authors:
   - admin
