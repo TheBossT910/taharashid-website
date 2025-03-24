@@ -1,6 +1,6 @@
 ---
 title: "PerfectFit - Clothing App"
-date: 2024-9-01
+date: 2024-09-01
 external_link: https://github.com/seg-perfect-fit/perfect-fit-site
 ---
 
