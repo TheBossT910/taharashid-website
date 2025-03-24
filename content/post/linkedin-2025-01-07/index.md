@@ -52,8 +52,8 @@ While working through these tutorials, I started brainstorming my own game idea,
 
 I’ve already implemented a **character swap mechanic** 🔄, allowing players to switch characters during gameplay. Now, I’m diving deeper into learning **C# with Unity** and refining my game mechanics. It’s exciting to see my vision take shape at this early stage! 🎉
 
-![Character 1](images/swap-1.jpeg)
-![Character 2](images/swap-2.jpeg)
-![Character 3](images/swap-3.jpeg)
+![Character 1](images/swap-one.jpeg)
+![Character 2](images/swap-two.jpeg)
+![Character 3](images/swap-three.jpeg)
 
 Currently, I’m stuck between two potential game names: **ZenshinSlash** or **SyncSlash**. Which one do you prefer? Let me know in the poll! Also, share your game dev experiences in the comments below! 👇
