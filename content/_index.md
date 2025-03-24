@@ -36,11 +36,12 @@ sections:
       title: '📚 A bit about myself'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a [] in the [] at []. I blog about [], [], and [].
+      "👋 Hey, I’m Taha Rashid! 
 
-        I apply [].
-        
-        Please reach out to collaborate 😃
+      I’m a first-year Software Engineering student at the University of Ottawa, passionate about building innovative tech solutions and constantly pushing my limits. Whether it’s coding new projects, leading teams, or exploring different technologies, I’m always eager to learn and improve.
+      
+      I’m currently developing AnimeTracker, a native iOS app that helps users track anime episode release schedules. This project has been an exciting challenge and a great way to apply SwiftUI, Python, and API integrations to a real-world problem."
+
     design:
       columns: '1'
     # TODO: Use "Featued Publications" for posts (i.e. like LinkedIn/Instagram Posts)
