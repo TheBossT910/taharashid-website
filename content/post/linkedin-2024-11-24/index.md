@@ -25,6 +25,8 @@ Over these past few weeks, I’ve been busy:
 
 🚀 **Figma is amazing**. It really is. It helped me grasp mobile and UX design and allowed me to visualize my ideas as an actual app. Thanks to Figma, I was able to **design a home screen and schedule screen!** I’ll definitely keep using it and recommend giving it a try if you haven’t (it’s free).  
 
+![Swift Figma schedule section](images/figma-schedule.jpeg)
+
 ---
 
 ## 📅 Progress with My Anime Tracker App  
@@ -34,7 +36,9 @@ Until recently, my Anime Tracker App was simply taking what I learned from the L
 - My improved understanding of Swift/SwiftUI
 - My Figma designs
 
-And… it was **surprisingly easy**! I was able to implement my Figma concept, not perfectly, but it’s there 😄.  
+And… it was **surprisingly easy**! I was able to implement my Figma concept, not perfectly, but it’s there 😄. 
+
+![Figma schedule implementation in Swift](images/swift-schedule-item.jpeg)
 
 ---
 
@@ -45,6 +49,8 @@ Here are the next big features I plan to add to my app:
 - 📚 **Integration with anime databases** like MyAnimeList or AniList
 - 🤖 **AI or ML-powered anime recommendations** and episode recaps
 - 🏆 **"Most watched" and "currently watching" leaderboard**
+
+![Swift Home screen](images/swift-home.jpeg)
 
 ---
 
