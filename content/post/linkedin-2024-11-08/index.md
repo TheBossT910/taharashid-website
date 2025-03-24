@@ -41,7 +41,7 @@ I originally planned for:
 
 However, I learned that **prioritizing key tasks** over adding every feature is crucial. Cutting ✂️ some ideas let me focus on **delivering a polished homepage** instead of an incomplete website.  
 
-{{< figure src="images/home.jpeg" alt="Home pape" caption="Image of the home screen scrolled down" >}}
+![Home page screenshot](images/home.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ I also plan to **fork 🍴 this repository** and turn PerfectFit into a real pro
 ## 💬 Your Thoughts?  
 
 👉 **Check out the PerfectFit site here:**  
-<!-- {{< button href="https://seg-perfect-fit.github.io/perfect-fit-site/" text="Visit PerfectFit" >}}   -->
+[Visit PerfectFit](https://seg-perfect-fit.github.io/perfect-fit-site/)
 
 Have you done web development before?  
 Did you use frameworks like **Next.js** or libraries like **React**?  
