@@ -1,7 +1,7 @@
 ---
 title: "✨ Progress Update on My Anime Tracker App!"
 summary: "Over the past few weeks, I’ve been making big strides in building my Anime Schedule App, from learning Swift to designing with Figma!"
-date: 2024-11-08
+date: 2024-11-24
 authors:
   - admin
 tags:
@@ -11,7 +11,7 @@ tags:
   - App development
   - GitHub
 image:
-  caption: 'Image credit: [**PerfectFit**](https://seg-perfect-fit.github.io/perfect-fit-site/)'
+  caption: 'Image credit: [**Taha Rashid**]'
 ---
 ## 👋 Hey! It’s been a while, but I’m still working on my Anime Schedule App! 🎉  
 
