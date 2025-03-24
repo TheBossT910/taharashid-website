@@ -25,7 +25,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bg5.webp
+          filename: bg4.jpg
           filters:
             brightness: 1.0
           size: cover
