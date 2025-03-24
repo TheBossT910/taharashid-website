@@ -156,9 +156,9 @@ languages:
   - name: English
     percent: 100
   - name: Urdu (اردو)
-    percent: 50
+    percent: 80
   - name: Japanese (日本語)
-    percent: 45
+    percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
