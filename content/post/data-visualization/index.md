@@ -12,13 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-<<<<<<< HEAD
-# 🌟 Finished the PerfectFit Home Page! 🌟 
-
-{{< toc mobile_only=true is_open=true >}}
-=======
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
->>>>>>> parent of 3ed0250 (chore: created 1 post)
 
 Use popular tools such as Plotly, Mermaid, and data frames.
 
