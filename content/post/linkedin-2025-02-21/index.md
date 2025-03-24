@@ -35,7 +35,6 @@ So far, I've been focused on finishing the core features of the app (tracking ai
 
 ![Schedule page top](images/schedule-one.png)
 ![Schedule page airing](images/schedule-airing.png)
-![Schedule page AI recap](images/schedule-ai-recap.png)
 
 ### **Fetching REAL Data from AniList and TVDB APIs** 🔗
 - 📸 Grabs show and episode information, including images and descriptions
@@ -46,6 +45,8 @@ So far, I've been focused on finishing the core features of the app (tracking ai
 - 🛠️ Developed specific prompts to feed the model episode descriptions and get excellent show recaps
 - 🧪 Tried multiple AI models (like **ChatGPT-4**, **DeepSeekR1** on Azure), but they didn’t work as expected
 - 💰 Azure models and APIs were costly, so I switched to running the **Mistral model** locally via **Ollama** ⚙️
+
+![Schedule page AI recap](images/schedule-ai-recap.png)
 
 ### **Debugging, Debugging, Optimizing, Debugging...** 😭🐛
 
