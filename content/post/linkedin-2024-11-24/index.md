@@ -5,6 +5,7 @@ date: 2024-11-24
 authors:
   - admin
 tags:
+  - AnimeTracker
   - Swift
   - SwiftUI
   - Figma
