@@ -7,10 +7,10 @@ main:
   - name: Bio
     url: /
     weight: 10
+  # - name: Posts
+  #   url: /#papers
+  #   weight: 11
   - name: Posts
-    url: /#papers
-    weight: 11
-  - name: DevLogs
     url: /#news
     weight: 13
   - name: Experience
