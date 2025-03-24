@@ -1,7 +1,7 @@
 ---
 title: "Japanese Verb Transitivity Anki Plugin"
 date: 2024-05-01
-external_link: https://github.com/TheBossT910/Japanese-Verb-Transivity-Anki-Plugin/tree/main/Slideshow%20Images
+external_link: https://github.com/TheBossT910/Japanese-Verb-Transivity-Anki-Plugin/tree/main
 ---
 
 # Japanese Verb Transitivity Anki Plugin 🏮
