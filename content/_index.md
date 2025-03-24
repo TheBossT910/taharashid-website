@@ -15,6 +15,7 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
+      # TODO: add resume link (Google Drive?)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -32,16 +33,17 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 A bit about myself'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Use this area to speak to your mission. I'm a [] in the [] at []. I blog about [], [], and [].
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I apply [].
         
         Please reach out to collaborate 😃
     design:
       columns: '1'
+    # TODO: Use "Featued Publications" as a template for devlogs
   - block: collection
     id: papers
     content:
