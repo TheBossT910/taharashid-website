@@ -9,7 +9,7 @@ tags:
   - GitHub
   - Unreal Engine
   - Unity
-  - C#
+  - C Sharp
   - Game design
 image:
   caption: 'Image credit: [**Taha Rashid**]'
