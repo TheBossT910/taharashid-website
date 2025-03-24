@@ -43,9 +43,5 @@ A fast-paced 2D hack n slash sidescroller game currently in development with Uni
   - 🔁 Swap 2
   - 🔁 Swap 3
 
-## Contact
-👨‍💻 Developer: **Taha Rashid**  
-🔗 LinkedIn: [Taha Rashid](https://www.linkedin.com/in/taha-rashid192)  
-
 ## 🎨 Figma Designs
 [Figma Project](#)
