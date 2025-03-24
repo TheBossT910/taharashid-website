@@ -35,11 +35,7 @@ _(This feature was previously available before migrating to Firebase, but wasn't
 - 🌐 Website (NextJS + React + Tailwind CSS?)  
 
 ## Docs
-📄 Documentation available on [Notion](#)  
-
-## Contact
-👨‍💻 Developer: **Taha Rashid**  
-🔗 LinkedIn: [Taha Rashid](https://www.linkedin.com/in/taha-rashid192)  
+📄 Documentation available on [Notion](https://axiomatic-number-f0f.notion.site/AnimeTracker-Docs-164cff81b50d80caa06ad6cf25622b0e)  
 
 ## Currently Implemented Views
 ### 📂 Status View
