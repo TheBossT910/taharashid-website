@@ -43,11 +43,11 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-    # TODO: Use "Featued Publications" or "Recent News" as a template for devlogs
+    # TODO: Use "Featued Publications" for posts (i.e. like LinkedIn/Instagram Posts)
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Posts
       filters:
         folders:
           - publication
@@ -75,10 +75,11 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
+  # TODO: Use "Recent News" as a template for devlogs
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent DevLogs
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
