@@ -3,7 +3,7 @@
 title: Taha Rashid
 
 # Name pronunciation (optional)
-name_pronunciation: Taha Rashid
+# name_pronunciation: Taha Rashid
 
 # Full name (for SEO)
 first_name: Taha
