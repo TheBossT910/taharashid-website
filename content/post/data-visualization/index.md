@@ -12,7 +12,9 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-# 🌟 Finished the PerfectFit Home Page! 🌟  
+# 🌟 Finished the PerfectFit Home Page! 🌟 
+
+{{< toc mobile_only=true is_open=true >}}
 
 ![Placeholder for homepage screenshot](#)  
 
