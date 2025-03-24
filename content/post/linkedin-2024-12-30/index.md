@@ -5,7 +5,7 @@ date: 2024-12-30
 authors:
   - admin
 tags:
-  - Anime Tracker App
+  - AnimeTracker
   - Game Development
   - Firebase
   - React
