@@ -1,5 +1,5 @@
 ---
-title: "SlashSync - 2D Hack n Slash Sidescroller"
+title: "AnimeTracker - Data Parser"
 date: 2025-02-15
 external_link: https://github.com/TheBossT910/AnimeTracker---Data-Parser
 ---
