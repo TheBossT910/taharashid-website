@@ -31,3 +31,7 @@ tags:
 ***
 
 - Uploaded project repo to Github now! Xcode will now sync with the GitHub repo (I think lol)
+
+**Next time:**
+- Make a view with all shows in the schedule, and make it scrollable
+- Find a way to add custom fonts
