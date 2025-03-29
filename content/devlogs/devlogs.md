@@ -1,4 +1,4 @@
 ---
-title: Dev-Logs
+title: Devlogs
 view: article-grid
 ---

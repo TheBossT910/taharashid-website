@@ -13,7 +13,7 @@ main:
   - name: Posts
     url: /#news
     weight: 13
-  - name: Dev-Logs
+  - name: Devlogs
     url: /devlogs
     weight: 13
   - name: Experience
