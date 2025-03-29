@@ -20,9 +20,9 @@ I'm currently following **Apple's official guide** to build a **Landmarks app**,
 
 As a **side project**, I started applying the concepts I learned in the **Landmarks tutorial** to build my own app: an **Anime Schedule Tracker!** 🎌  
 
-![Details page](images/details.jpeg)
+<img src="images/details.jpeg" alt="details page" style="max-height: 800px; width: auto">
 
----
+***
 
 ### **Why Build This App?**  
 
@@ -31,7 +31,7 @@ Relying on **random websites** or **Crunchyroll's incomplete schedule** wasn't c
 
 So, I thought—why not **create my own** app?  
 
----
+***
 
 ### **💡 Features So Far:**  
 
@@ -39,8 +39,10 @@ So, I thought—why not **create my own** app?
 ✅ Dedicated page for each anime 📄  
 ✅ Ability to favorite anime ⭐  
 ✅ Sort by favorites for easy access 📊  
-![Favorite List page](images/favorites.jpeg)
----
+
+<img src="images/favorites.jpeg" alt="favorites list page" style="max-height: 800px; width: auto">
+
+***
 
 ### **🚀 What's Next?**  
 

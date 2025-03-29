@@ -26,9 +26,9 @@ Over these past few weeks, I’ve been busy:
 
 🚀 **Figma is amazing**. It really is. It helped me grasp mobile and UX design and allowed me to visualize my ideas as an actual app. Thanks to Figma, I was able to **design a home screen and schedule screen!** I’ll definitely keep using it and recommend giving it a try if you haven’t (it’s free).  
 
-![Swift Figma schedule section](images/figma-schedule.jpeg)
+<img src="images/figma-schedule.jpeg" alt="swift figma schedule section" style="max-height: 800px; width: auto">
 
----
+***
 
 ## 📅 Progress with My Anime Tracker App  
 
@@ -39,9 +39,9 @@ Until recently, my Anime Tracker App was simply taking what I learned from the L
 
 And… it was **surprisingly easy**! I was able to implement my Figma concept, not perfectly, but it’s there 😄. 
 
-![Figma schedule implementation in Swift](images/swift-schedule-item.jpeg)
+<img src="images/swift-schedule-item.jpeg" alt="swift implementation of figma schedule card" style="max-height: 800px; width: auto">
 
----
+***
 
 ## 🎯 What's Next for the Anime Tracker App?
 
@@ -51,19 +51,18 @@ Here are the next big features I plan to add to my app:
 - 🤖 **AI or ML-powered anime recommendations** and episode recaps
 - 🏆 **"Most watched" and "currently watching" leaderboard**
 
-![Swift Home screen](images/swift-home.jpeg)
+<img src="images//swift-home.jpeg" alt="swift home screen" style="max-height: 800px; width: auto">
 
----
+***
 
-## 🎉 Feeling Rewarded by the Progress  
+#### 🎉  It’s truly **super rewarding** to see your learning and hard work pay off, AND to see your vision come to life!  
 
-It’s truly **super rewarding** to see your learning and hard work pay off, AND to see your vision come to life!  
-
----
+***
 
 ## 💬 Your Thoughts?  
 
 Are you working on any projects? Did you also find it rewarding to see working results? Let me know below!  
 
 PS: I finally figured out how to connect my **GitHub to Xcode** 😂.  
-Check out my **[Anime Tracker App HERE](https://github.com/TheBossT910/AnimeTracker)**  
+
+Check out my **[Anime Tracker App](https://github.com/TheBossT910/AnimeTracker)**  

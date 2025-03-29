@@ -27,9 +27,10 @@ It isn’t anything special, but it's an experience I can take a lot away from.
 Working with a team to build this website, I’ve learned the practical importance of **clear communication** and **setting deadlines** 📅.  
 
 Having regular discussions to track each teammate’s progress and align on the site’s vision helped us:  
-✅ Develop ideas like the **clothing viewer page** and **scrolling background logos**  
-✅ Set **smaller deadlines** to accomplish bigger tasks  
-✅ Complete the website **before the deadline: November 12, 2024**  
+
+- ✅ Develop ideas like the **clothing viewer page** and **scrolling background logos**  
+- ✅ Set **smaller deadlines** to accomplish bigger tasks  
+- ✅ Complete the website **before the deadline of November 12, 2024**  
 
 ---
 
@@ -41,9 +42,9 @@ I originally planned for:
 
 However, I learned that **prioritizing key tasks** over adding every feature is crucial. Cutting ✂️ some ideas let me focus on **delivering a polished homepage** instead of an incomplete website.  
 
-![Home page screenshot](images/home.png)
+<img src="images/home.png" alt="home page" style="max-height: 800px; width: auto">
 
----
+***
 
 ## 💻 New Skills & Technologies  
 
@@ -73,11 +74,8 @@ I also plan to **fork 🍴 this repository** and turn PerfectFit into a real pro
 
 ## 💬 Your Thoughts?  
 
-👉 **Check out the PerfectFit site here:**  
-[Visit PerfectFit](https://seg-perfect-fit.github.io/perfect-fit-site/)
+[Check out the PerfectFite Site](https://seg-perfect-fit.github.io/perfect-fit-site/)
 
-Have you done web development before?  
-Did you use frameworks like **Next.js** or libraries like **React**?  
-Is there anything you want to learn in the future?  
+Have you done web development before? Did you use frameworks like **Next.js** or libraries like **React**? Is there anything you want to learn in the future?  
 
 Let me know in the comments! 😄 
