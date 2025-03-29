@@ -40,10 +40,10 @@ tags:
 
 ## Current home screen design
 **Low fidelity**
-![Home low detail](images/home-low-detail.png)
+<img src="images/home-low-detail.png" alt="home low detail" style="max-height: 800px; width: auto">
 
 **High fidelity**
-![Home high detail](images/home-high-detail.png)
+<img src="images/home-high-detail.png" alt="home high detail" style="max-height: 800px; width: auto">
 
 ***
 
