@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       # TODO: add resume link (Google Drive?)
       button:
-        text: Download CV
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       css_class: dark
