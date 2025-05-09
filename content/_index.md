@@ -36,11 +36,11 @@ sections:
       title: '📚 A bit about myself'
       subtitle: ''
       text: |-
-        👋 Hey, I’m Taha Rashid! 
+        👋 Hey, I’m Taha Rashid!
 
-        I’m a first-year Software Engineering student at the University of Ottawa, passionate about building innovative tech solutions and constantly pushing my limits. Whether it’s coding new projects, leading teams, or exploring different technologies, I’m always eager to learn and improve.
-      
-        I’m currently developing AnimeTracker, a native iOS app that helps users track anime episode release schedules. This project has been an exciting challenge and a great way to apply SwiftUI, Python, and API integrations to a real-world problem.
+        I’m a first-year Software Engineering student at the University of Ottawa.
+
+        I’m currently just finished developing Koyomi AnimeTracker, an iOS/iPadOS 📱, MacOS 💻 and VisionOS 🥽 app that helps users track anime episode release schedules. This project has been an exciting challenge and a great way to learn and apply Swift, SwiftUI, Python, Firebase, and API integrations to a real problem I had.
     design:
       columns: '1'
 
