@@ -58,8 +58,8 @@ education:
     date_start: 2024-09-01
     date_end: 2028-12-31
     summary: |
-      GPA: 3.92/4.0
-      CGPA: 9.3/10.0
+      GPA: 3.9/4.0
+      CGPA: 9.2/10.0
       
       Courses included:
       - ITI 1100: Digital Systems I
